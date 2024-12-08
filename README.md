@@ -1,0 +1,2 @@
+# exercicio.py
+ Exercicios faculdades
